@@ -1,6 +1,6 @@
 GitHub - [@jwood74](http://github.com/jwood74)
 
-jaxen@jaxenwood.com
+jaxen [@] jaxenwood.com
 
 [Electoral Pendulums](pendulums)
 

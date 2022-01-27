@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Jaxen Wood
 
-You can use the [editor on GitHub](https://github.com/jwood74/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GitHub - @jwood74
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+jaxen [@] jaxenwood.com
 
-### Markdown
+[Electoral Pendulums](pendulums)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [The Taxonomy of Life](https://adoring-thompson-0173d3.netlify.app)
 
-```markdown
-Syntax highlighted code block
+Ever wanted to see how different animals are related?
 
-# Header 1
-## Header 2
-### Header 3
+Using some data from [ITIS.gov](https://www.google.com/url?q=https%3A%2F%2Fwww.itis.gov%2F&sa=D&sntz=1&usg=AFQjCNEkg_dltu5iepm19RJNNS-g2GkhgQ), and a cool d3 component, I made an interactive component that lets you drill down to all the different species.
 
-- Bulleted
-- List
+![Image](imgs/taxonomy_life.png)
 
-1. Numbered
-2. List
+### [Congress Connections](https://fervent-visvesvaraya-b202c6.netlify.app)
 
-**Bold** and _Italic_ and `Code` text
+With congress full of 535 members, it can be interesting to see how they are all connected.
 
-[Link](url) and ![Image](src)
-```
+Using data from the congress website, and a d3 graph component, I made an interactive tool that shows all 535 members and senators, their home states, and committee memberships.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jwood74/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](imgs/congress_connections.png)

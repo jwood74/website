@@ -1,4 +1,20 @@
 theme: jekyll-theme-cayman
+
 title: Jaxen Wood
+author: Jaxen Wood
+
 github:
   is_project_page: false
+
+navbar-links:
+  Pendulums: "pendulums"
+  Projects:
+    - Taxonomy of Life: "https://adoring-thompson-0173d3.netlify.app"
+    - Congress Connections: "https://fervent-visvesvaraya-b202c6.netlify.app"
+  GitHub: "http://github.com/jwood74"
+
+social-network-links:
+  email: "jaxen@jaxenwood.com"
+  github: jwood74
+  twitter: jaxenwood
+  linkedin: jaxenwood
